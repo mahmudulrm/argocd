@@ -8,5 +8,5 @@ spec:
   ports:
   - port: 8765
     protocol: TCP
-    targetPort: 8765
+    targetPort: 9376
   type: LoadBalancer
