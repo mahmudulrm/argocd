@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: mahmudulrm/appnginx:v0.1.72
+        image: mahmudulrm/appnginx:v0.1.73
         ports:
         - containerPort: 8080
 
